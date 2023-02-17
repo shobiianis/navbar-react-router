@@ -1,0 +1,41 @@
+.navbar{
+    background-color: rgb(114, 114, 222);
+    height: 50px;
+    display: flex;
+    justify-content:flex-end;
+
+
+    
+}
+
+.btnStyle{
+    height: 30px;
+    margin-left: 20px      ;
+   margin-top: 10px;
+   background-color: transparent;
+   border: none;
+}
+
+.headStyle{
+
+   margin-right: 500px;
+   margin-top: 5px;
+   color: rgb(82, 80, 80);
+   font-size: 25px;
+
+
+}
+
+
+.border{
+    border: 2px solid black;
+    width: 40%;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+}
+
+.para{
+  text-align: center;
+}
